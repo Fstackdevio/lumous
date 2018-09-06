@@ -1,2 +1,3 @@
 # lumous
-An advance netsurf app
+A Bandwidth manager  app (netsurf)
+
